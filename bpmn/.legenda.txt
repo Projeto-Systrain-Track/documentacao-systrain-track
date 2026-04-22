@@ -1,0 +1,12 @@
+LEGENDA DO BPMN
+
+Raias:
+- Roxo = Sistema
+- Laranja = Usuário
+- Azul = Equipe Interna da Sys-Train Track
+- Branco = Conceito / Não Utilizado
+
+Blocos:
+- Roxo = Subprocessos
+- Vermelho = Erros
+- Branco = Ação
