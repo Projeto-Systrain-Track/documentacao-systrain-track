@@ -14,7 +14,7 @@ Durante o desenvolvimento do sistema de monitoramento de servidores RBC, utiliza
 
 ### 📄 Documentação
 
-* **Link:** https://docs.google.com/document/d/1T2AcfHN0ZaghLfjTLVrUCgX1BGp0f32exyIcEWxZG8k/edit?tab=t.0
+* **Link:** https://docs.google.com/document/d/1WQDqnqpEmks0Pw3ZpuHN6HOKnAj_tQlcLS3ygN7TReE/edit?usp=sharing
 * **Descrição:** Documento principal com a descrição detalhada do projeto, incluindo regras de negócio, arquitetura, decisões técnicas e informações relevantes para entendimento do sistema.
 
 ### 💻 GitHub
